@@ -1,4 +1,5 @@
 # Introductory HTML and JavaScript
+<<<<<<< HEAD
 
 ### **Structure**
 * HTML pages are text documents.
@@ -66,3 +67,5 @@ using size, color, and style.
 
 * You can use grouping and similarity to help simplify
 the information you present.
+
+
