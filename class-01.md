@@ -1,5 +1,5 @@
 # Introductory HTML and JavaScript
-<<<<<<< HEAD
+ HEAD
 
 ### **Structure**
 * HTML pages are text documents.
