@@ -8,11 +8,11 @@ box or an inline box.
 
 
   * Block-level elements start on a new line Examples include:
-    >> <h1> <p> <ul> <li>
+    >> h1/ p/ ul/ li.
 
   * Inline elements flow in between surrounding text Examples include:
 
-    >> <img> <b> <i>
+    >> img/b/ i
 
 #### Containing Elements
 
